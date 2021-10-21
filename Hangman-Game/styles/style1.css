@@ -1,0 +1,21 @@
+/* Style Rules */
+
+/* universal selector its select all the elements on the html page */
+* {
+    color: red;
+
+}
+
+p{
+    color: blue;
+}
+
+button{
+    color: white;
+    background: red ;
+}
+
+/* id selector */
+.warning{
+    color:rgba(25, 26, 98, 0.452);
+}
